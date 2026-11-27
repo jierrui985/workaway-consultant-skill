@@ -1,5 +1,13 @@
 # Workaway 义工换宿 Skill
 
+## 版本
+
+- [v2.0.0 英文版](https://github.com/jierrui985/workaway-consultant-skill/releases/tag/v2.0.0)：完整 Skill 位于 [`v2/`](https://github.com/jierrui985/workaway-consultant-skill/tree/main/v2)，使用时保留整个目录及其中的模块和模板。
+- [v1.0.0 中文首版](https://github.com/jierrui985/workaway-consultant-skill/releases/tag/v.1.0.0)：仓库根目录保留中文文件。
+
+以下为中文首版说明。
+
+
 通用的 Workaway 换宿项目分析与申请辅助 Skill。它将房东信息、旅行成本和用户资料结合，帮助判断是否适合申请，并生成英文申请信和中文翻译。支持任何出发国家的用户；默认费用保留原币并换算人民币，可额外展示用户偏好币种。
 
 这是一套 Markdown 指令与模板，无需 API 密钥或额外运行服务。它不隶属于 Workaway，也不保证获得房东接待。
@@ -73,7 +81,7 @@ workaway-consultant-skill/
 
 仓库仅保留通用规则和空白模板。已填资料、真实房东沟通、个人报告和申请信应存放在仓库之外。`.gitignore` 额外排除常见私人目录，但无法识别随意命名的敏感文件；发布前仍应检查文件与提交历史。
 
-项目采用 [MIT License](LICENSE)。可以修改、分享和用于商业用途，并按许可证要求保留声明。本次交付是可发布的源文件包，尚未上传 GitHub。
+项目采用 [MIT License](LICENSE)。可以修改、分享和用于商业用途，并按许可证要求保留声明。英文第二版已发布，见上方版本入口。
 
 ## 维护与扩展
 
